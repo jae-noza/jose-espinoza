@@ -1,0 +1,17 @@
+---
+title: "Jose A. Espinoza"
+image: "JAEspinoza.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:jaespinoza@protonmail.com"
+output:
+  postcards::jolla
+---
+ 
+Dr. Jose A. Espinoza is a postdoctoral scholar at the University of Calgary working with Dr. Thomas O'Neill and Dr. Magda Donia (Telfer School of Management at the University of Ottawa). Jose's research interests center on the role of work in well-being and personal growth and development. In this area, his current research investigates whether humans have an innate and fundamental need for purpose and its potential implications for employee motivation and well-being. Jose is also interested in the application of advanced latent and mixture modeling techniques, such as latent profile analysis, to provide a new perspective on established areas of workplace research. Jose's research has received funding from the Social Sciences and Humanities Research Council of Canada and has been published in psychology and business journals, such as *Nature Human Behaviour*, *Journal of Happiness Studies*, and *Leadership & Organization Development Journal*.
